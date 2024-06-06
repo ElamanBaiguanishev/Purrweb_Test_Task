@@ -1,6 +1,8 @@
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Это тестовое задание на позицию “Backend разработчик (Стажёр) на Node.js”.
+
+[Спроектированная БД](https://dbdiagram.io/d/purrweb_test_task-6661da439713410b05f25f28) ссылка на спроектированую структуру БД.
 
 ## Installation
 
